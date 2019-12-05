@@ -16,9 +16,10 @@ To make a github account you just go to github.com and click on sign-up and give
 ---
 ## Repository Setup
 First you have to initialize by using **git init**
-Then you hav eto make a README.md by using **touch** then the name of the file and use c9 to open it and type your stuff
+Then you have to make a README.md by using **touch** then the name of the file and use c9 to open it and type your stuff
+Then you have to save by using **Command S**
 Then you add the file to the file you are in by using **git add**
-Then you gotta commit but using **git commit -m "_blank_"**
+Then you have to commit but by using **git commit -m "_blank_"**
 After you have to push it back to your account by using **git push**
 Lastly you go to your github and refresh
 
